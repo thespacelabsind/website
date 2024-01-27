@@ -1308,3 +1308,9 @@ a {
 {
   background: #e9f4f9 !important;
 }
+
+
+.size2
+{
+  max-height:100px !important;
+}
